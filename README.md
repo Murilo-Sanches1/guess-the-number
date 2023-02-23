@@ -1,6 +1,6 @@
-# DocumentObjectModel-GuessTheNumber
+# DOM-GuessTheNumber
 
-Projeto simples que consiste na manipulação da DOM para o funcionamento de um jogo em que o objetivo é acertar o número secreto com o mínimo de tentativas - Escrito de forma imperativa.
+Projeto simples que consiste na manipulação da DOM (Document Object Model) para o funcionamento de um jogo em que o objetivo é acertar o número secreto com o mínimo de tentativas - Escrito de forma imperativa.
 
 ## Tecnologias
 * HTML
